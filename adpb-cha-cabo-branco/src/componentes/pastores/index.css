@@ -33,3 +33,8 @@
    border-radius: 50%;
 }
 
+@media (max-width: 762px){
+    .Card-itens{
+        width: 300px;
+    }
+}

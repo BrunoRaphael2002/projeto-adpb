@@ -29,7 +29,7 @@
 
 .conteudo ul{
    list-style: none;
-    min-height: 300px;
+   
     height: 100%;
    padding: 20px;
    margin: 0 auto;
@@ -42,3 +42,19 @@
     font-weight: 600;
 }
 
+@media (max-width:762px){
+   .Horarios{
+    margin: 0 auto;
+   }
+   
+    .conteudo{
+        text-align: center;
+        gap: 20px;
+        flex-direction: column;
+        margin: 0 auto;
+        width: 70%;
+    }
+    .conteudo li{
+        padding: 10px;
+    }
+}

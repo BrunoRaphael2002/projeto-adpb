@@ -35,6 +35,18 @@
    
     display: flex;
     justify-content:center;
+   
     padding: 100px 20px;
 }
 
+@media (max-width: 762px){
+    .Sobre img{
+        width: 100%;
+    }
+
+    .Card{
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+}
