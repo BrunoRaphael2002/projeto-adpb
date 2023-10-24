@@ -1,0 +1,20 @@
+.sticy{
+    position: sticky;
+    top: 0;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  border-bottom: 1px solid rgb(28, 28, 28);
+  background-color: white;
+    padding: 10px;
+}
+
+
+
+nav img{
+   filter:invert(100%);
+}
+
