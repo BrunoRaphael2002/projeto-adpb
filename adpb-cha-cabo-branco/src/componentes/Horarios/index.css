@@ -42,6 +42,28 @@
     font-weight: 600;
 }
 
+.loc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px 10px;
+}
+
+.loc img{
+    width: 20px;
+    filter: invert(100%);
+}
+
+.loc a{
+    font-size: 23px;
+    padding: 10px;
+    background-color: green;
+    border-radius: 25px;
+    font-weight: bold;
+    color: white;
+}
+
 @media (max-width:762px){
    .Horarios{
     margin: 0 auto;

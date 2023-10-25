@@ -63,9 +63,9 @@ export default function Horarios() {
                             </ul>
                     </section>
                 
-            </section>
+            </section >
 
-
+                <section className='loc'><a href="https://maps.app.goo.gl/CJasSLkA3Xc1b3H6A"><img src="../assets/loc.png" alt="loc" />Localização</a></section>
 
     </div>
   )
