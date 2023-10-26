@@ -40,7 +40,9 @@ export default function Sobre() {
             
           
             <img src="../assets/igreja.jpg" alt="igreja" />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo minus ut est, architecto laboriosam iure labore amet sapiente inventore maiores nam sunt eum consequuntur, expedita nobis saepe dolor! Quis, velit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam dignissimos, necessitatibus commodi accusantium saepe aliquam odio exercitationem nesciunt reprehenderit animi ducimus tempore temporibus cum eligendi! Consequuntur expedita veritatis autem rem.</p>
+            <p>
+              A igreja foi construida no ano de... atualmente é dirigida pelo, Pastor Severino Pereira e o seu vice Genario... 
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo minus ut est, architecto laboriosam iure labore amet sapiente inventore maiores nam sunt eum consequuntur, expedita nobis saepe dolor! Quis, velit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam dignissimos, necessitatibus commodi accusantium saepe aliquam odio exercitationem nesciunt reprehenderit animi ducimus tempore temporibus cum eligendi! Consequuntur expedita veritatis autem rem.</p>
 
 
         </section>
