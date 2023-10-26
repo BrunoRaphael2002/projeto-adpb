@@ -20,8 +20,8 @@ export default function Horarios() {
                                 </li>
                                 <li>
                                     <h3>Quinta-Feira</h3>
-                                    <p> Culto de doutrina
-                                        19h as 21h</p>
+                                
+                                        <p>19h as 21h</p>
                                 </li>
                             </ul>
                        
