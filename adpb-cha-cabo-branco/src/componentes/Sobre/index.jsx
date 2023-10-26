@@ -7,6 +7,9 @@ export default function Sobre() {
      
 
         <section className='Card '>
+
+              <h1>Pastores</h1>
+
         <Card 
         link='https://www.adpb.org.br'
         imagem='../assets/presidente.png'

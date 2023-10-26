@@ -41,7 +41,16 @@
 
 @media (max-width: 762px){
     .Sobre img{
-        width: 100%;
+        width: 80%;
+        padding: 10px 20px;
+
+    }
+
+    .Sobre p{
+        padding: 10px 20px;
+        margin: 0 auto;
+        width: 75%;
+        text-align: justify;
     }
 
     .Card{

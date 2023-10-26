@@ -26,7 +26,7 @@ export default function Banner() {
   return (
     <div>
        <section className='Banner'>
-        <h1>Seja bem vindo</h1>
+        
        </section>
     </div>
   )
