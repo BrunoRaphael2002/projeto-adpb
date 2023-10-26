@@ -5,10 +5,10 @@ export default function Sobre() {
   return (
     <div className='background'>
      
-
+            <h1>Pastores</h1>
         <section className='Card '>
 
-              <h1>Pastores</h1>
+            
 
         <Card 
         link='https://www.adpb.org.br'
@@ -38,7 +38,7 @@ export default function Sobre() {
 
         <section className="limitar-sessao Sobre">
             
-            <h1>Chã do Cabo Branco</h1>
+          
             <img src="../assets/igreja.jpg" alt="igreja" />
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo minus ut est, architecto laboriosam iure labore amet sapiente inventore maiores nam sunt eum consequuntur, expedita nobis saepe dolor! Quis, velit. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quam dignissimos, necessitatibus commodi accusantium saepe aliquam odio exercitationem nesciunt reprehenderit animi ducimus tempore temporibus cum eligendi! Consequuntur expedita veritatis autem rem.</p>
 

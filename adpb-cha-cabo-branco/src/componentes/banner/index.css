@@ -18,37 +18,66 @@
 
 
 
-.Banner h3{
+.bg h1{
     text-shadow: 1px 1px 2px rgb(58, 58, 58), 0 0 1em rgb(39, 39, 65), 0 0 0.2em rgb(37, 37, 65);
     text-transform: uppercase;
     font-weight: bolder;
-    font-size: 50px;
+    font-size: 90px;
+    padding: 5px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 
-.Banner p{
+.bg h2{
+    text-shadow: 1px 1px 2px rgb(58, 58, 58), 0 0 1em rgb(39, 39, 65), 0 0 0.2em rgb(37, 37, 65);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg h4{
+    text-shadow: 1px 1px 2px rgb(58, 58, 58), 0 0 1em rgb(39, 39, 65), 0 0 0.2em rgb(37, 37, 65);
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bg p{
     text-shadow: 1px 1px 2px rgb(58, 58, 58), 0 0 1em rgb(39, 39, 65), 0 0 0.2em rgb(37, 37, 65);
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 5px;
 }
 
 .bg{
     
-   
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   flex-direction: column;
     text-align: center;
     padding: 20px;
+    gap: 10px;
     
 }
 
 @media (max-width: 762px){
-    .Banner h1{
-        text-align: center;
-        font-size: 40px;
-        margin: 0 auto;
-    }
+ 
 
     .bg{
         width: 70%;
+    }
+
+    .bg h1{
+        font-size: 50px;
+    }
+
+    .bg h2{
+        font-size: 30px;
     }
 }

@@ -16,7 +16,7 @@
     align-items: center;
     justify-content: center;
     
-    background-color: #e4e4e4;
+    background-color: #e8e6e5;
     gap: 30px;
     width: 100%;
    padding: 30px;
@@ -38,7 +38,7 @@
 }
 
 .conteudo ul p{
-    color: rgb(1, 41, 49);
+    color: rgb(201, 76, 76);
     font-weight: 600;
 }
 

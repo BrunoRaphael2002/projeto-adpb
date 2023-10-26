@@ -27,7 +27,14 @@ export default function Banner() {
     <div>
        <section className='Banner'>
         <div className='bg'>
-          <h3>Salmos 122</h3>
+
+
+          <h1>Chã Do Cabo Branco</h1>
+          <h2>Seja Bem Vindo</h2>
+
+
+          
+          <h4>Salmos 122</h4>
           <p >¹ Alegrei-me quando me disseram: Vamos à casa do Senhor.  Salmos 122:1</p>
         </div>
        </section>

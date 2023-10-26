@@ -9,6 +9,7 @@ export default function Card(props) {
     <div>
          <a href={props.link} target='blank'>
         <section className='Card-itens'>
+      
            
                 <img src={props.imagem} alt="imagem" />
                 <h1>{props.titulo}</h1>
