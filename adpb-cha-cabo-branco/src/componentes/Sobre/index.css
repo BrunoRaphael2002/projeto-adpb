@@ -50,8 +50,8 @@
     .Sobre p{
         padding: 5px;
         margin: 0 auto;
-        width: 90%;
-        text-align: justify;
+        width: 100%;
+        text-align: center;
     }
 
     .Card{
